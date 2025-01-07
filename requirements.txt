@@ -1,0 +1,12 @@
+langchain
+langchain-community
+chromadb
+together
+pydantic
+llama-index
+sentence-transformers
+FlagEmbedding
+PyPDF2
+pypdf
+langchain-huggingface
+streamlit
